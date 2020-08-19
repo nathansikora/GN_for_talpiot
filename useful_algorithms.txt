@@ -1,0 +1,23 @@
+Here is a list of some useful algorithms:
+
+	basic clustering: http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/index.html
+							 https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68						
+
+	density based clustering: https://en.wikipedia.org/wiki/DBSCAN
+										  https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html
+	finding maximum likelihood: https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm
+
+	Parzen Windows / Agreement Score: https://en.wikipedia.org/wiki/Kernel_density_estimation
+														  https://www.youtube.com/watch?v=UPXIdi_aTEg
+														  
+	Gaussian Miture Models (fitting gaussians to data): https://towardsdatascience.com/gaussian-mixture-models-explained-6986aaf5a95
+
+	shortest path in graph (useful for optimization of graph-like problems): https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+
+	Stable Marriage algorithm (optimizing seperations): https://www.algorithm-archive.org/contents/stable_marriage_problem/stable_marriage_problem.html
+
+	image proccesing basics: https://www.youtube.com/watch?v=mRM5Js3VLCk
+
+	majority based feature extraction: https://en.wikipedia.org/wiki/Hough_transform
+
+	RANSAC (estimating model parameters with outliers): https://en.wikipedia.org/wiki/Random_sample_consensus
